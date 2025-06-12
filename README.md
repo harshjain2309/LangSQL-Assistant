@@ -5,6 +5,9 @@ _A conversational interface for querying SQL databases using LangChain & Groq LL
 ![Sqlite3](docs/demo1.png)
 
 <br>
+<br>
+<br>
+<br>
 
 ![mysql](docs/demo2.png)
 
