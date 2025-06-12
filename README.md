@@ -2,7 +2,9 @@
 
 _A conversational interface for querying SQL databases using LangChain & Groq LLM_
 
-![Workflow Diagram](docs/architecture.png)
+![Sqlite3](docs/demo1.png)
+
+![mysql](docs/demo2.png)
 
 ## 🚀 Features
 
