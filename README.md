@@ -11,15 +11,15 @@ _A conversational interface for querying SQL databases using LangChain & Groq LL
 
 ![mysql](docs/demo2.png)
 
-## 🚀 Features
+##  Features
 
-- 🗣️ **Natural-language → SQL**: Ask questions in plain English, get real SQL queries run under the hood.  
-- 🐍 **Multi-DB support**: Toggle between a local SQLite file or your own MySQL instance.  
-- 💬 **Streamlit UI**: Live chat interface with streaming LLM responses and SQLAgent action traces.  
-- 🔄 **Automatic retry** on parsing hiccups (`handle_parsing_errors=True`).  
-- 🔒 **Secure credentials**: Passwords & API keys pulled from sidebar inputs or a `.env` file.
+- **Natural-language → SQL**: Ask questions in plain English, get real SQL queries run under the hood.  
+-  **Multi-DB support**: Toggle between a local SQLite file or your own MySQL instance.  
+-  **Streamlit UI**: Live chat interface with streaming LLM responses and SQLAgent action traces.  
+-  **Automatic retry** on parsing hiccups (`handle_parsing_errors=True`).  
+-  **Secure credentials**: Passwords & API keys pulled from sidebar inputs or a `.env` file.
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repo  
    ```bash
